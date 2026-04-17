@@ -1,0 +1,30 @@
+{
+    "Tahir": {
+        "salt": "e70da2a3b2faa27f3bea2252bfafded0fa1ba4ea62ac1e0dc46a444435fc67b1",
+        "hash": "b5ecb50fa2f584884e3f3356d600cd6f18d5e0c7780afe4a9baafc8389d69778"
+    },
+    "Amit": {
+        "salt": "ca94cb4d8708beaa33594b941ff259dc222da70424460da7324b5ee927e726d1",
+        "hash": "eb6d375e79826190a3d5c2179a88b7cbfb1c1b2ac24e602f0aec7b0dd570555f"
+    },
+    "Homo": {
+        "salt": "44bff7b886474063deddb84d96828438e593a42f34da0f98c705931cc65352e2",
+        "hash": "d78906dac31ab14666a920e78237337132e3820b5745b11e83de3132ba3a10c9"
+    },
+    "Fufneer": {
+        "salt": "db115b12a8bf8599d7fcbccf303f40e67607e8d1ce7616aa732403a24f76869f",
+        "hash": "9b49ec4b512f3978cd934ee39f70b6b48b0d94cdfcae61d9a5ee4b17e601604b"
+    },
+    "Player1": {
+        "salt": "14beb75b2fd5705dd5542f84f3b84a8f0fc722efcadf683a64473aaa76b7eb96",
+        "hash": "97a77b455750a08a2d716ba23742712c1850f4ec7ae00cae4f466044ae90983b"
+    },
+    "p12": {
+        "salt": "6f3e78d72ac88888f3a6ffb4d5e0189527b8593c504388dd90d191636bc00b0f",
+        "hash": "9f15710b52459230637d06bb06a0734f408de28dabb1cab9bdb5689d001fe297"
+    },
+    "p123": {
+        "salt": "c4ac2a00782fb4785439ec3e0d44f097a436f084a51926ad9476d18a22e2bec7",
+        "hash": "a25f6b1bea7d0348aef4fc3c115b0b5922f3dfed4f98a5141c9566c96156ae23"
+    }
+}
